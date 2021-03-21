@@ -8,6 +8,10 @@ open cmd
 pip install pillow
 close cmd
 ```
-
+The main file is randomGrandient.py
 The functions requires width and height, returns an image file
+
+DrawerFunctions is a collection of functions that use PIL
+
+
 
